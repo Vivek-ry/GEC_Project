@@ -125,7 +125,6 @@ print(correct_grammar("She go to the market every day."))
 📁 GEC_Project
 ├── 📜 GEC_project.ipynb  # Jupyter Notebook with code
 ├── 📜 dataset/           # C4_200M dataset (link provided)
-├── 📜 models/            # Trained model weights (optional)
 ├── 📜 results/           # Evaluation reports & analysis
 └── 📜 README.md          # You are here!
 ```
